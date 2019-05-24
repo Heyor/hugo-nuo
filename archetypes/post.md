@@ -1,6 +1,6 @@
 ---
 title: "{{ replace .TranslationBaseName "-" " " | title }}"
-author: "Author Name"
+author: "Eric"
 cover: "/images/cover.jpg"
 tags: ["tagA", "tagB"]
 date: {{ .Date }}
